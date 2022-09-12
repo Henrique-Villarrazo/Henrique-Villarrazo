@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning: Docker e Git
-- 💬 Ask me about: API Rest, Maven, Spring Boot...
+- 💬 Ask me about: Java, API Rest, Maven, Spring Boot...
 
 ### Best technologies
 
