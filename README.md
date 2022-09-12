@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/henrique-villarrazo-java/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="https://instragram.com/h_villarrazo/">
+ <a href="https://www.instagram.com/h_villarrazo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div> 
