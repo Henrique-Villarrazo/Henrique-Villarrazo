@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning: Docker e Git
 - 💬 Ask me about: Java, API Rest, Maven, Spring Boot...
 
+### See the Projects with Star they are produced by me solely.
+
 ### Best technologies
 
 <div>
