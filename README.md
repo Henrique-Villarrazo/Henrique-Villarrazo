@@ -21,8 +21,7 @@
   <a href="https://github.com/Henrique-Villarrazo">
      <img  height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Henrique-Villarrazo&layout=compact&langs_count=7&theme=dark"/>
      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Henrique-      Villarrazo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     
-  </a>
-  </pat_1>
+  </a>>
 </div>
 
 <please add an env variable called PAT_1 with your github token in vercel
